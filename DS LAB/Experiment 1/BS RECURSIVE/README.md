@@ -12,6 +12,14 @@
 
 3.If the search ends with the remaining half being empty, the target is not in the array.
 
+OUTPUTS :
+
+KEYVALUE (12) - The key value 12 is in the list, it is found in the position 1.
+
+KEY VALUE (33) -The key value 33 is in the list,it is found in the position 3.
+
+KEY VALUE (92) -They key value 92 is in the list, it is found in the position 8.
+
 ![OUTPUT]
 
 
