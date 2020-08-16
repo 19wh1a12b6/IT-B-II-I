@@ -12,6 +12,8 @@
 
 3.If the search ends with the remaining half being empty, the target is not in the array.
 
+![OUTPUT]
+
 
 
 
