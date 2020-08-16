@@ -12,6 +12,12 @@
 
 3.If x doesn’t match with any of elements, return -1.
 
-OUTPUTS
+OUTPUTS :
+ 
+ KEY VALUE (36) - The key value 36 is in the list, it is found in the posituon 4.
+ 
+ KEY VALUE (100) - The key value 100 is not found in the list, position is not dislpayed.
+ 
+ ![output]
 
 
