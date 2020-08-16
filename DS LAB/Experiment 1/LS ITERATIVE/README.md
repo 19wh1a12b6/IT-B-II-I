@@ -32,5 +32,7 @@
 
 7.STOP
 
-![OUTPUT]
+![OUTPUT]![WhatsApp Image 2020-08-16 at 6 24 13 PM](https://user-images.githubusercontent.com/69348428/90336972-e8e07c00-dffc-11ea-8055-e17e6c2d344b.jpeg)
+![WhatsApp Image 2020-08-16 at 6 24 01 PM](https://user-images.githubusercontent.com/69348428/90336974-ea11a900-dffc-11ea-8814-3485d72db4e4.jpeg)
+
 
